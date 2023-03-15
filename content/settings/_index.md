@@ -23,10 +23,10 @@ Das **Einstellungsmenü** kann geöffnet werden indem auf das runde Anzeigebild 
 
 ## Anzeigename und Profilbild
 
-In den Einstellungen können Sie im Reiter **Account** bei Bedarf Ihren Anzeigenamen ändern („Vorname Nachname“) und ein Profilbild hochladen (analog zur Kontakbox auf der TUD-Website; Profilbild <5MB wählen):
+In den Einstellungen können Sie im Reiter **Account** bei Bedarf Ihren Anzeigenamen ändern („Vorname Nachname“) und ein Profilbild hochladen:
 ![Markierung des Feldes Anzeigenamen und des Profilbilds in den Einstellungen](/images/06_Settings-Names_de.png)
 
-Mittelfristig wird der Anzeigename aus dem Common Name im LDAP der TU Dresden erhalten, dann ist ein manuelles Ändern nicht mehr nötig.
+<!--Mittelfristig wird der Anzeigename aus dem Common Name im LDAP der TU Dresden erhalten, dann ist ein manuelles Ändern nicht mehr nötig.-->
 
 Das E-Mail-Adressfeld sollte nicht ausgefüllt werden, da über Ihren TUB-Login eine E-Mail-Adresse hinterlegt ist. Theoretisch können hier weitere Adressen hinzugefügt werden, beispielsweise um Benachrichtigungen über verpasste Nachrichten an eine weitere E-Mail-Adresse senden zu lassen.
 
@@ -64,7 +64,7 @@ Die Geräte-Namen geben Ihnen auch Übersicht beim gegenseitigen Schlüsselvergl
 
 Die hier vergebbaren öffentlichen Namen (durch Mausklick auf diese) Ihrer Geräte können auch von Gesprächspartner:innen eingesehen werden. Dies hilft, wenn diese einen Vergleich der kryptografischen Schlüssel Ihrer Geräte (bspw. Laptop + Handy) durchzuführen möchten und so leicht die Gerätenamen identifizieren können.
 
-Die vielen kryptografischen Schlüssel werden auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver der TU Dresden angeboten, auf der (mit einer Passphrase geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen!
+Die vielen kryptografischen Schlüssel werden auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver der TU Berlin angeboten, auf der (mit einer Passphrase geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen!
 
 <!--![Screenshot des Menüpunkts zur Schlüsselsicherung](/images/10_Setup-Keystore_de.png)-->
 

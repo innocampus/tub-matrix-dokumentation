@@ -2,7 +2,7 @@
 menutitle: "Häufige Fragen (FAQ)"
 title: "Häufig gestellte Fragen"
 date: 2020-08-02T21:26:25+02:00
-draft: false
+draft: true
 weight: 200
 ---
 

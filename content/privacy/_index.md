@@ -1,7 +1,7 @@
 ---
 title: "Datenschutz"
 date: 2024-01-26T14:25:00+02:00
-draft: false
+draft: true
 chapter: true
 weight: 900
 ---

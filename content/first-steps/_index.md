@@ -10,12 +10,12 @@ weight: 2
 
 ## Matrix-Login mit TUD-Account
 
-Mitgliedern und Angehörigen der TU Dresden (insbesondere auch Studierenden) wird durch Matrix ermöglicht, mittels ihres **TUD-Logins** mit Angehörigen dieser und anderer Hochschulen und Universitäten sowie weiteren Matrix-Nutzenden (beispielsweise akademischen Partner:innen) per Chat sowie Audio-/Video-Telefonie zu kommunizieren.
+Mitgliedern und Angehörigen der TU Berlin (insbesondere auch Studierenden) wird durch Matrix ermöglicht, mittels ihres **TUB-Accounts** mit Angehörigen dieser und anderer Hochschulen und Universitäten sowie weiteren Matrix-Nutzenden (beispielsweise akademischen Partner:innen) per Chat sowie Audio-/Video-Telefonie zu kommunizieren.
 
 Die Kommunikation erfolgt über einen sogenannten Client. Es steht eine [Vielzahl verschiedener Clients](https://matrix.org/clients/) zur Auswahl. Der bekannteste Client ist Element (früher Riot). Neben mobilen Versionen für Android und IOS bieten wir Element als Web-Anwendung unter [chat.tu-berlin.de](https://chat.tu-berlin.de) an. Element steht aber auch als Desktop-Anwendung zum [Download](https://element.io/download) bereit.
 
 {{% notice tip %}}
-Wir empfehlen die Nutzung des Element Desktop-Clients, weil so zahlreiche Probleme, die bei dem Nutzen der Verschlüsselung entstehen können, vermieden werden können.
+Wir empfehlen die Nutzung von Element als Web-Anwendung unter [chat.tu-berlin.de](https://chat.tu-berlin.de). Diese Version von Element ist auf unseren Matrix-Homeserver abgestimmt und wird regelmäßig aktualisiert.
 {{% /notice %}}
 
 {{% notice warning %}}
@@ -30,24 +30,12 @@ Um sich auf dem Homeserver der TU Berlin anzumelden, klickt man zunächst auf **
 
 ![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Change-Homeserver_de.png)
 
-Nun kann man manuell *tu-dresden.de* als Homeserver angeben.
+Nun kann man manuell *matrix.tu-berlin.de* als Homeserver angeben.
 
-![Eingabefeld zum Ändern des Homeservers mit der Eingabe matrix.tu-dresden.de](/images/03_Set-Homeserver_de.png)
+![Eingabefeld zum Ändern des Homeservers mit der Eingabe matrix.tu-berlin.de](/images/03_Set-Homeserver_de.png)
 
-Anschließend ist der einmalige Login mit TUD-Login (= ZIH-Login) und TUD-Passwort (= ZIH-Passwort) durchzuführen:
-Dropdown-Menü „Anmelden mit:“ sollte auf „Benutzername“ belassen werden. Dann sind folgende Eingaben zu tätigen:
-
-**Benutzername: TUD-Login**  ( = ZIH-Login, nur das Login-Kürzel, keine E-Mail-Adresse!)
-
-**Passwort: TUD-Passwort** (= ZIH-Passwort)
-
-Ein alternativer Login, bspw. über die E-Mail-Adresse ist **NICHT** beim ersten, initialen, Anmelden möglich, erst ab dem zweiten Einloggen.
-
-Es folgt nach dem Erstlogin auch keine E-Mail / Bestätigungsmail.
-
-
-
-
+Anschließend müssen Benutzername und Passwort des TUB-Accounts angegeben werden. <!--In dem Dropdown-Menü „Anmelden mit:“ sollte „Benutzername“ ausgewählt bleiben.>
+Als Nutzername muss der TUB-Login **vollständig in Kleinbuchstaben** verwendet werden (keine E-Mail-Adresse). Es folgt nach dem ersten Login keine Bestätigungsmail.
 
 ![Loginfenster mit Aufforderung TUB-Login und Passwort einzugeben](/images/04_Username_de.png)
 
@@ -63,12 +51,12 @@ Nach der ersten Anmeldung werden Sie nach einiger Zeit dazu aufgefordert die Sch
 Es wird dringend empfohlen sich die Zeit zu nehmen und die Schlüsselsicherung einzurichten. Andernfalls kann es passieren, dass Nachrichten nicht mehr entschlüsselt werden können und so verloren gehen.
 {{% /notice %}}
 
-Matrix verschlüsselt nicht nur die Daten zwischen den Clients und dem Homeserver (im Rechenzentrum der TU Dresden) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen beteiligten Geräten ausgetauscht werden. Obwohl diese technische Notwendigkeit kompliziert klingt und im Hintergrund auch ist, ist sie inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies beispielsweise ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind verschlüsselten Inhalte unter Umständen nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Homeserver der TU Dresden angeboten, auf der (mit einer Sicherheitsphrase bzw. daraus errechenbaren Sicherheitsschlüssel geschützt) alle kryptografischen Schlüssel (verschlüsselt) abgelegt sind.
+Matrix verschlüsselt nicht nur die Daten zwischen den Clients und dem Homeserver (im Rechenzentrum der TU Berlin) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen beteiligten Geräten ausgetauscht werden. Obwohl diese technische Notwendigkeit kompliziert klingt und im Hintergrund auch ist, ist sie inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies beispielsweise ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind verschlüsselten Inhalte unter Umständen nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Homeserver der TU Berlin angeboten, auf der (mit einer Sicherheitsphrase bzw. daraus errechenbaren Sicherheitsschlüssel geschützt) alle kryptografischen Schlüssel (verschlüsselt) abgelegt sind.
 
 ![Aufforderung den Sicherheitsschlüssel zu generieren oder eine Sicherheitsphrase einzugeben](/images/11_Setup-Key_de.png)
 ![Aufforderung eine Passwort für die Schlüsselsicherung einzugeben](/images/12_Enter-Key_de.png)
 
-Bei der Wahl der Sicherheitsphrase ist darauf zu achten, dass diese **nicht** Ihrem TUD-Passwort entsprechen darf! Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel immer zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wieder auffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei und Ausdrucken).
+Bei der Wahl der Sicherheitsphrase ist darauf zu achten, dass diese **nicht** Ihrem TUB-Passwort entsprechen darf! Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel immer zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wieder auffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei und Ausdrucken).
 
 ![Anzeige des Sicherheitsschlüssel zum abschreiben oder wegspeichern](/images/13_Present-Key_de.png)
 
@@ -88,11 +76,12 @@ Durch [weitere wichtige Einstellungen]({{< relref "settings/_index.md" >}}) kön
 
 ## Matrix-Login ohne TUD-Account
 
-Eine Registrierung von Accounts (wie vielleicht von anderen Matrix-Servern bekannt) ist an der TU Dresden nicht möglich. Der Dienst kann ausschließlich von Angehörigen der TU Dresden mit TUD-Login genutzt werden.
+Eine Registrierung von Accounts (wie vielleicht von anderen Matrix-Servern bekannt) ist an der TU Berlin nicht möglich. Der Dienst kann ausschließlich von Angehörigen der TU Berlin mit TUB-Login genutzt werden.
+<!-- TODO - Hinweis Accounts für Fachgebiete, Bots etc. -->
 
-Es ist jedoch möglich mit Nutzenden anderer Matrix-Homeserver von verschiedenen wissenschaftlichen und zivilgesellschaftlichen Institutionen zu kommunizieren. Dieses Feature nennt sich Föderation (das Prinzip ist ähnlich zu dem E-Mail System: E-Mails können beispielsweise von den Servern der TU Dresden an die Sever der TU Berlin geschickt werden).
+Es ist jedoch möglich mit Nutzenden anderer Matrix-Homeserver von verschiedenen wissenschaftlichen und zivilgesellschaftlichen Institutionen zu kommunizieren. Dieses Feature nennt sich Föderation (das Prinzip ist ähnlich zu dem E-Mail System: E-Mails können beispielsweise von den Servern der TU Berlin an die Sever der TU Dresden geschickt werden).
 
-Auf öffentlichen Homeservern (wie zum Beispiel dem von [matrix.org](https://app.element.io/)) kann sich jede Person einen Account anlegen. Wir bitten externe, die über Matrix mit Angehörigen der TU Dresden kommunizieren wollen, diese Möglichkeit zu nutzen. Eine Liste mit weiteren öffentlichen Homeservern ist auf [hello-matrix.net](https://www.hello-matrix.net/public_servers.php) verfügbar.
+Auf öffentlichen Homeservern (wie zum Beispiel dem von [matrix.org](https://app.element.io/)) kann sich jede Person einen Account anlegen. Wir bitten externe, die über Matrix mit Angehörigen der TU Berlin kommunizieren wollen, diese Möglichkeit zu nutzen. Eine Liste mit weiteren öffentlichen Homeservern ist auf [hello-matrix.net](https://www.hello-matrix.net/public_servers.php) verfügbar.
 
 Folgende deutsche Hochschulen verfügen über einen eigenen Homeserver:
 
@@ -110,7 +99,7 @@ Folgende deutsche Hochschulen verfügen über einen eigenen Homeserver:
 
 * [Uni Bremen](https://element.stugen.de/#/welcome)
 
-* [TU Berlin](https://chat.tu-berlin.de/) inkl. [Doku](https://www.innocampus.tu-berlin.de/projekte/matrixinnocampus/)
+* [TU Dresden](https://matrix.tu-dresden.de/) inkl. [Doku](https://doc.matrix.tu-dresden.de/)
 
 * [Humboldt Uni Berlin](https://element.hu-berlin.de/) inkl. [Doku](https://www.digitale-lehre.hu-berlin.de/de/lehr-und-lernlandschaft/element)
 
@@ -192,11 +181,12 @@ Kartendarstellung der Hochschulen und Universitäten mit einem Matrix-Dienst:
 
 [https://fediverse.blog/~/FossMessenger/matrix-server](https://fediverse.blog/~/FossMessenger/matrix-server)-->
 
+<!--
 ## Datenschutzerklärung
 
-Datenschutzerklärung: [Link]({{< relref "privacy/_index.md" >}})
+Datenschutzerklärung: [Link](https://matrix.tu-berlin.de/_matrix/consent)
 
 ## Impressum
 
 Impressum: [Link]({{< relref "imprint/_index.md" >}})
-
+-->
