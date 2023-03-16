@@ -1,7 +1,7 @@
 ---
 title: "Matrix-Clients"
 date: 2020-07-02T21:22:27+02:00
-draft: true
+draft: false
 chapter: true
 weight: 15
 ---
@@ -14,9 +14,9 @@ Element steht für verschiedenste Platformen zum Download verfügbar und kann so
 
 ## [Element Web]({{< ref "browser.md" >}} "Einrichtung von Element Web (Browser)")
 
-Am einfachsten kann Matrix durch das direkte Öffnen der Element-Web-Anwendung in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) genutzt werden. Die TU Dresden bietet eine vorkonfigurierte Version von Element Web an. Dadurch entfällt beispielsweise die Eingabe der Homeserver-URL beim Login und bestimmte Features sind aktiviert (z.B. Latex-Formatierung in Nachrichten) beziehungsweise deaktiviert. Darüber Hinaus gibt es noch andere öffentlich verfügbare Versionen von Element Web.
+Am einfachsten kann Matrix durch das direkte Öffnen der Element-Web-Anwendung in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) genutzt werden. Die TU Berlin bietet eine vorkonfigurierte Version von Element Web an. Dadurch entfällt beispielsweise die Eingabe der Homeserver-URL beim Login und bestimmte Features sind aktiviert (z.B. Latex-Formatierung in Nachrichten) beziehungsweise deaktiviert. Darüber Hinaus gibt es noch andere öffentlich verfügbare Versionen von Element Web.
 
-{{% button href="https://matrix.tu-dresden.de" icon="fas fa-globe" %}}matrix.tu-dresden.de (TU Dresden){{% /button %}} {{% button href="https://app.element.io" icon="fas fa-globe" %}}app.element.io (Öffentlich) {{% /button %}}
+{{% button href="https://chat.tu-berlin.de" icon="fas fa-globe" %}}chat.tu-berlin.de (TU Berlin){{% /button %}} {{% button href="https://app.element.io" icon="fas fa-globe" %}}app.element.io (Öffentlich) {{% /button %}}
 
 ## [Element Desktop]({{< ref "desktop.md" >}} "Einrichtung von Element Desktop") (Linux, macOS, Windows)
 
