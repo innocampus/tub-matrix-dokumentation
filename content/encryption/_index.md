@@ -1,7 +1,7 @@
 ---
 title: "Verschlüsselung"
 date: 2020-07-03T13:20:58+02:00
-draft: true
+draft: false
 chapter: true
 weight: 60
 ---
@@ -40,7 +40,7 @@ Die Leiste zeigt jetzt die Gesprächsperson im Detail an. Hier ist eine Schlüss
 
 Diese Verifizierung sollte mit der Kontaktperson durch Abgleich (z.B. mündlichen via Telefon, im selben Zimmer oder anderes Medium) geschehen. Da dies nicht immer leicht ist, kann auch ersteinmal das Vertrauen ausgesprochen werden (sonst wird man immer wieder gefragt, die Verifizierung durchzuführen) und bei Gelegenheit (bspw. beim nächsten Meeting) durchzuführen.
 
-Eine ausführliche Darstellung des Themas findet sich in diesem [Video von Prof. Plikat](https://invidious.ggc-project.de/VOxfa6dqXSk) sowie [im diesem Matrix-Blogartikel](https://blog.riot.im/e2e-encryption-by-default-cross-signing-is-here).
+Eine ausführliche Darstellung des Themas findet sich in diesem im diesem [Matrix-Blogartikel](https://blog.riot.im/e2e-encryption-by-default-cross-signing-is-here).
 
 Der Abgleich selbst geschieht über Emoji-Bildchen oder QR-Codes, die je nach Gerät und Iconpack verschieden aussehen können. Auch ist die Übersetzung aller Oberflächenelemente ins Deutsche nicht 100%-ig vorhanden.
 
