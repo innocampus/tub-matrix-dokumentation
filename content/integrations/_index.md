@@ -1,7 +1,7 @@
 ---
 title: "Integrationen"
 date: 2020-07-02T21:23:01+02:00
-draft: true
+draft: false
 chapter: true
 weight: 80
 ---
@@ -32,20 +32,20 @@ Hier kann bspw. ein Etherpad, eine Jitsi-Videokonferenz, ein RSS-Bot o.a. eingeb
 Widgets betten Apps in Räume ein, sodass dessen Mitglieder gemeinsam darauf zugreifen können.
 
 {{% notice warning %}}
-Die TU Dresden stellt mit Matrix lediglich eine Plattform zur Verfügung. Bei der Einbindung von Widgets werden gegebenenfalls personenbezogenen Daten an Dritte übermittelt. Die Verantwortlichkeit dafür liegt bei den Nutzer:innen, zwischen denen und den Drittparteien die Übermittlung dieser Daten direkt erfolgt.
+Die TU Berlin stellt mit Matrix lediglich eine Plattform zur Verfügung. Bei der Einbindung von Widgets werden gegebenenfalls personenbezogenen Daten an Dritte übermittelt. Die Verantwortlichkeit dafür liegt bei den Nutzer:innen, zwischen denen und den Drittparteien die Übermittlung dieser Daten direkt erfolgt.
 {{% /notice %}}
 
-Prof. Dr. Alexander Lasch präsentiert in folgenden Videos einige Möglichkeiten zum Einbinden von Widgets in Matrix-Räume für die digitale Lehre:
+<!--Prof. Dr. Alexander Lasch präsentiert in folgenden Videos einige Möglichkeiten zum Einbinden von Widgets in Matrix-Räume für die digitale Lehre:
 
 * [Digitale Lehre 1: MATRIX Web Messenger](https://youtube.de/watch?v=AtkA-sE-9uU)
 * [Digitale Lehre 5: Videokonferenz via Jitsi @ MATRIX](https://youtube.de/watch?v=D2Pq-NCaVGE)
+-->
 
-### Jitsi (Videokonferenz) {#jitsi}
+### Jitsi (Videokonferenzen) {#jitsi}
 
 {{% notice tip %}}
-Wird ein Video- oder Sprachanruf über die entsprechenden Buttons im Raum mit mehr als zwei Personen gestartet, wird Jitsi auf den Servern der TU Dresden verwendet.
+Wird ein Video- oder Sprachanruf über die entsprechenden Buttons im Raum mit mehr als zwei Personen gestartet, wird Jitsi <!--auf den Servern der TU Dresden--> verwendet.
 {{% /notice %}}
-
 
 <!-- Ein 1:1 Telefonat oder Video innerhalb von Matrix nutzt die direkte WebRTC-Verbindung zwischen beiden Beteiligten. Ab der 3. Person wird [Jitsi](https://de.wikipedia.org/wiki/Jitsi) hinzugezogen, ein freies Videokonferenz-Tool (Apache-Lizenz), welches im Zuge der Corona-Krise und der verminderten Verfügbarkeit vom DFNconf auch lokal an der TU Dresden installiert wurde: https://jitsi.tu-dresden.de
 
@@ -63,7 +63,7 @@ Die Taste m schaltet das eigene Mikrofon stumm - mit dieser Einstellung sollte m
 
 Für das Teilen des Bildschirminhaltes (bzw. spezifischer Programmfenster) ist ggf. eine Anpassung der Sicherheitseinstellungen des Betriebssystems nötig (bspw. in MacOS unter Systemeinstellungen > Sicherheit > Datenschutz > Bildschirmaufnahme).
 
-Vielen Dank an Dr. Eike Dohmen ([Professur für Magnetofluiddynamik, Mess- und Automatisierungstechnik](https://tu-dresden.de/ing/maschinenwesen/imd/mfd)) und Prof. Dr. Alexander Lasch ([Professur für Germanistische Linguistik und Sprachgeschichte](http://tu-dresden.de/gsw/slk/germanistik/gls/)) für Tests und Hinweise zum Zusammenspiel von Matrix und Jitsi.
+<!--Vielen Dank an Dr. Eike Dohmen ([Professur für Magnetofluiddynamik, Mess- und Automatisierungstechnik](https://tu-dresden.de/ing/maschinenwesen/imd/mfd)) und Prof. Dr. Alexander Lasch ([Professur für Germanistische Linguistik und Sprachgeschichte](http://tu-dresden.de/gsw/slk/germanistik/gls/)) für Tests und Hinweise zum Zusammenspiel von Matrix und Jitsi.-->
 
 ### Etherpad (Texteditor) {#etherpad}
 

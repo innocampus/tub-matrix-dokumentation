@@ -13,9 +13,6 @@ Am Montag den 06.11.23 ab 20:30 Uhr finden Wartungsarbeiten statt - Matrix wird 
 
 Unser Matrix-Homeserver ist über den [Element-Client](https://chat.tu-berlin.de/) im Browser erreichbar.
 
-## Dokumentation im Aufbau
-Aktuell arbeiten wir noch daran die [Dokumentation von der TU-Dresden](https://doc.matrix.tu-dresden.de/) an unsere Matrix-Instanz anzupassen. Im Menü auf der linken Seite werden nach und nach immer mehr Seiten entstehen.
-
 ## Matrix an der TU Berlin
 Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Echtzeit-Kommunikation, das auch unter dem Namen eines seiner nutzenden Programme, Element, bekannt ist.
 
@@ -50,9 +47,6 @@ setInterval(() => {
     * [Element Android]({{< relref "clients/android/_index.md" >}})
     * [Element iOS]({{< relref "clients/ios/_index.md" >}})
     * [Element-Installation unter Linux]({{< relref "clients/install_linux/_index.md" >}})
-<!--
-    * [Weitere Clients]({{< relref "clients/more_clients/_index.md" >}})
--->
 * [Personen finden und direkte Nachrichten versenden]({{< relref "messaging/_index.md" >}})
     * [Nachrichten formatieren]({{< relref "messaging/formatting/_index.md" >}})
     * [Nachrichten suchen]({{< relref "messaging/search/_index.md" >}})
@@ -65,10 +59,7 @@ setInterval(() => {
 * [Communities als Raum-Filter einsetzen]({{< relref "communities/_index.md" >}})
 * [Spaces zur Raumverwaltung einsetzen]({{< relref "spaces/_index.md" >}})
 * [Ende-zu-Ende-Verschlüsselung nutzen]({{< relref "encryption/_index.md" >}})
-<!--
-* [Integrations, Bridges, Bots nutzen (u.a. Jitsi)]({{< relref "integrations/_index.md" >}})
-* [Häufige Fragen (FAQ)]({{< relref "faq/_index.md" >}})
--->
+* [Integrations, Bridges, Bots nutzen (u.a. Jitsi)]({{< relref "integrations/_index.md" >}}) <!--* [Häufige Fragen (FAQ)]({{< relref "faq/_index.md" >}})-->
 * [Weiterentwicklung von Matrix]({{< relref "development/_index.md" >}})
 * [Impressum]({{< relref "imprint/_index.md" >}})
 * [Datenschutzerklärung](https://matrix.tu-berlin.de/_matrix/consent)
