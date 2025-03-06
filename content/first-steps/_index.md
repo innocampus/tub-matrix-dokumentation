@@ -8,7 +8,7 @@ weight: 2
 
 # Erste Schritte mit Matrix
 
-## Matrix-Login mit TUD-Account
+## Matrix-Login mit TUB-Account
 
 Mitgliedern und Angehörigen der TU Berlin (insbesondere auch Studierenden) wird durch Matrix ermöglicht, mittels ihres **TUB-Accounts** mit Angehörigen dieser und anderer Hochschulen und Universitäten sowie weiteren Matrix-Nutzenden (beispielsweise akademischen Partner:innen) per Chat sowie Audio-/Video-Telefonie zu kommunizieren.
 
@@ -74,7 +74,7 @@ Vermeiden Sie diese Situation durch eine eingerichtete Schlüsselsicherung!
 
 Durch [weitere wichtige Einstellungen]({{< relref "settings/_index.md" >}}) können Sie Ihren Client an Ihre Bedürfnisse anpassen und so ihr Matrix-Erlebnis verbessern!
 
-## Matrix-Login ohne TUD-Account
+## Matrix-Login ohne TUB-Account
 
 Eine Registrierung von Accounts (wie vielleicht von anderen Matrix-Servern bekannt) ist an der TU Berlin nicht möglich. Der Dienst kann ausschließlich von Angehörigen der TU Berlin mit TUB-Login genutzt werden.
 <!-- TODO - Hinweis Accounts für Fachgebiete, Bots etc. -->
