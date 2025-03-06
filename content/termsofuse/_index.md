@@ -1,7 +1,7 @@
 ---
 title: "Nutzungsbedingungen"
 date: 2024-02-16T14:00:00+01:00
-draft: false
+draft: true
 chapter: true
 ---
 
