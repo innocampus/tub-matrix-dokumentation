@@ -2,11 +2,15 @@
 menutitle: "Häufige Fragen (FAQ)"
 title: "Häufig gestellte Fragen"
 date: 2020-08-02T21:26:25+02:00
-draft: true
+draft: false
 weight: 200
 ---
 
-Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Unbeantwortete Fragen können Sie gerne im Raum `#matrix-support:tu-dresden.de` stellen.
+Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Unbeantwortete Fragen können Sie gerne per Mail an das Ticketsystem von InnoCampus <a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a> richten.
+
+Probleme und deren Lösungen können darüber hinaus im Matrix-Support-Raum [#support:matrix.tu-berlin.de](https://chat.tu-berlin.de/#/room/#support:matrix.tu-berlin.de) diskutiert werden, sodass alle anderen Nutzenden durch den transparenten Austausch lernen können.
+
+<!--Teilweise sind die Antworten noch nicht formuliert. In diesen Fällen bitte im Raum ```#matrix-support:tu-dresden.de``` nachfragen.-->
 
 ## Inhaltsverzeichnis
 
@@ -25,7 +29,7 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Unbeantwort
 * [Wie kann man in einer Gruppe, in der sich der einzige Admin entfernt hat, wieder einen Admin neu definieren?](#no-admin)
 * [Kann ich LaTeX schreiben?](#latex)
 * [Gibt es sowas wie Threads (vgl. Mattermost/Slack) in Matrix?](#threads)
-* [Warum gibt es keinen Raum "TU Dresden"? Wer dürfte ihn erstellen?](#no-tud-room) <!--* [Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen?](#delete-multiple-messages)-->
+* [Warum gibt es keinen Raum "TU Berlin"? Wer dürfte ihn erstellen?](#no-tud-room) <!--* [Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen?](#delete-multiple-messages)-->
 * [Ich kann mich über die Element IOS-App nicht anmelden](#apple-anmeldung)
 * [Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert?](#apple-no-video)
 * [Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen?](#how-many-invites-can-i-do)<!--* [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)-->
@@ -84,7 +88,7 @@ Bitte folgen Sie diesen Schritten:
 Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erhält.
 
 #### Wie kann man in einer Gruppe, in der sich der einzige Admin entfernt hat, wieder einen Admin neu definieren? {#no-admin}
-Grundsätzlich ist der Raum dann "verloren" und hat keinen Admin mehr. InnoCampus kann aber auf Anfrage entweder den Raum löschen oder einen anderen Nutzenden zum Admin ernennen. Um dieses Angebot wahrzunehmen, bitte eine Anfrage an den Servicedesk mit der Raum-Adresse `#<roomname>:tu-dresden.de` und dem zukünftigen Admin `@<username>:tu-dresden.de` senden. Wir kontrollieren dann, dass es tatsächlich keinen anderen Admin mehr gibt. Es bleibt aber die Frage offen, warum die genannte Person dann zum neuen Admin werden sollte. Im Zweifel ist das Löschen und neu Anlegen des Raumes also die bessere Lösung.
+Grundsätzlich ist der Raum dann "verloren" und hat keinen Admin mehr. InnoCampus kann aber auf Anfrage entweder den Raum löschen oder einen anderen Nutzenden zum Admin ernennen. Um dieses Angebot wahrzunehmen, bitte eine Mail an <a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a> mit der Raum-Adresse `#<roomname>:matrix.tu-berlin.de` und dem zukünftigen Admin `@<username>:matrix.tu-berlin.de` senden. Wir kontrollieren dann, dass es tatsächlich keinen anderen Admin mehr gibt. Es bleibt aber die Frage offen, warum die genannte Person dann zum neuen Admin werden sollte. Im Zweifel ist das Löschen und neu Anlegen des Raumes also die bessere Lösung.
 
 #### Kann ich LaTeX schreiben? {#latex}
 Ja! Zur Zeit ist es nur ein experimentelles Feature, aber in wenigen Wochen wird es für alle verfügbar sein. Siehe https://github.com/vector-im/element-web/issues/1945
@@ -93,7 +97,7 @@ Das Experimentelle Feature kann in den Einstellungen unter **Labor** aktiviert w
 #### Gibt es etwas ähnliches wie Threads (vgl. Mattermost/Slack) in Matrix? {#threads}
 Threads sind in Kürze in Matrix verfügbar und aktuell, zumindest am Element Desktop, als Laborfunktion verfügbar: https://github.com/vector-im/roadmap/projects/1
 
-#### Warum gibt es keinen Raum "TU Dresden"? Wer dürfte ihn erstellen? {#no-tud-room}
+#### Warum gibt es keinen Raum "TU Berlin"? Wer dürfte ihn erstellen? {#no-tud-room}
 Alle Personen, die einen Raum erstellt haben, sind administrierende Personen und tragen die Verantwortung für den Raum. Matrix ist bisher nicht für den Austausch von tausenden Mitgliedern an der Universität gedacht. Sollte eines Tages ein zentraler Raum von Bedarf sein, würde die Einrichtung und Pflege von InnoCampus übernommen werden.
 
 <!--
@@ -101,13 +105,13 @@ Alle Personen, die einen Raum erstellt haben, sind administrierende Personen und
 ?-->
 
 #### Ich kann mich über die Element IOS-App nicht anmelden {#apple-anmeldung}
-Anders als in der Installationsanleitung dargestellt, kann man in der iOS-App nicht auf `https://` vor der Serveradresse `tu-dresden.de` verzichten, wie es bei der Android-App der Fall ist.
+Anders als in der Installationsanleitung dargestellt, kann man in der iOS-App nicht auf `https://` vor der Serveradresse `matrix.tu-berlin.de` verzichten, wie es bei der Android-App der Fall ist.
 
 #### Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert? {#apple-no-video}
 Häufig hat Element nicht die Rechte, auf die Webcam und das Mikrofon zu zugreifen. Diese können in den Systemeinstellungen unter Sicherheit und Privatsphäre vergeben werden.
 
 #### Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen? {#how-many-invites-can-i-do}
-Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn Sie eine Masseneinladung durchführen möchten, senden Sie bitte eine Anfrage an den Servicedesk, damit wir Ihnen helfen können. Sie können selbst bis zu 25 Personen über ihren Account einladen.
+Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn Sie eine Masseneinladung durchführen möchten, senden Sie bitte eine Anfrage über das Ticketsystem von InnoCampus <a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>, damit wir Ihnen helfen können. Sie können selbst bis zu 25 Personen über ihren Account einladen.
 
 #### Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)? {#multiple-accounts-element}
 Ein Element-Fenster kann zur Zeit nur einen Matrix-Account verwalten. Es ist aber möglich, mehrere Element-Fenster mit unterschiedlichen Matrix-Konten zu starten, auch im Autostart des Rechners. Dazu ist der Programmaufruf so abzuändern, dass ein spezifisches Profil geöffnet wird:
