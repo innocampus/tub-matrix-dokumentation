@@ -34,7 +34,7 @@ Nun kann man manuell *matrix.tu-berlin.de* als Homeserver angeben.
 
 ![Eingabefeld zum Ändern des Homeservers mit der Eingabe matrix.tu-berlin.de](/images/03_Set-Homeserver_de.png)
 
-Anschließend müssen Benutzername und Passwort des TUB-Accounts angegeben werden. <!--In dem Dropdown-Menü „Anmelden mit:“ sollte „Benutzername“ ausgewählt bleiben.>
+Anschließend müssen Benutzername und Passwort des TUB-Accounts angegeben werden. <!--In dem Dropdown-Menü „Anmelden mit:“ sollte „Benutzername“ ausgewählt bleiben.-->
 Als Nutzername muss der TUB-Login **vollständig in Kleinbuchstaben** verwendet werden (keine E-Mail-Adresse). Es folgt nach dem ersten Login keine Bestätigungsmail.
 
 ![Loginfenster mit Aufforderung TUB-Login und Passwort einzugeben](/images/04_Username_de.png)
