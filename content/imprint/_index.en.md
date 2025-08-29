@@ -15,21 +15,9 @@ Please mail general questions to the ticket-system of InnoCampus:
 
 The [Impressum der TU Berlin](https://www.tu.berlin/footer/impressum/) is valid with the following changes:
 
-### Contact person:
+### Contact person and technical implementation:
 
-#### M.Sc. Martin Gauk
-
-Technische Universität Berlin<br/>
-innoCampus<br/>
-Sekretariat E 1<br/>
-Einsteinufer 19<br/>
-10587 Berlin
-
-<a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>
-
-### Technical implementation:
-
-#### M.Sc. Daniel Wujecki
+#### Leonard Ehli
 
 Technische Universität Berlin<br/>
 innoCampus<br/>

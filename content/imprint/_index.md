@@ -15,21 +15,9 @@ Allgemeine Fragen richten Sie bitte per Mail an das Ticketsystem von InnoCampus:
 
 Es gilt das [Impressum der TU Berlin](https://www.tu.berlin/footer/impressum/) mit folgenden Änderungen:
 
-### Ansprechpartner:
+### Ansprechpartner und technische Umsetzung:
 
-#### M.Sc. Martin Gauk
-
-Technische Universität Berlin<br/>
-InnoCampus<br/>
-Sekretariat E 1<br/>
-Einsteinufer 19<br/>
-10587 Berlin
-
-<a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>
-
-### Technische Umsetzung:
-
-#### M.Sc. Daniel Wujecki
+#### Leonard Ehli
 
 Technische Universität Berlin<br/>
 InnoCampus<br/>
