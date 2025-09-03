@@ -66,5 +66,6 @@ All persons in the room were verified.
 
 Further example, how you can realise the encryption state of a room by checking the relevant icon next to the room icon in the room information panel at the top right:
 
-![Darstellung der Verschlüsselungssituation in Matrix-Räumen](/images/room_security_status_en.png)
+![Darstellung eines unverschlüsselten Matrix-Raumes](/images/01_Room-Unencrypted_en.png)
+![Darstellung eines verschlüsselten Matrix-Raumes](/images/01_Room-Encrypted_en.png)
 

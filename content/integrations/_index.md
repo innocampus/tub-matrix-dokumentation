@@ -59,7 +59,7 @@ Auch bei Jitsi ist das öffnen des Widgets als eigener Tab sinnvoll, um die voll
 
 Die Nutzung eines Headsets (Kopfhörer + Mikrofon) ist sehr zu empfehlen, um Rückkopplungen zwischen Tonaufnahme und Tonwiedergabe zu verhindern. Idealerweise ein Headset mit Mikro in Kopfnähe und nicht nur ein Kopfhörer und eine Nutzung des Mikro-Löchleins am Laptop, was zu Geräuschen durch diesen führt.
 
-Die Taste m schaltet das eigene Mikrofon stumm - mit dieser Einstellung sollte mensch immer in eine Konferenz starten. Die Leertaste schaltet bei aktiver Stummschaltung das Mikrofon an (Push-to-talk). Da die Mikrofon-Eingangspegel alle unterschiedlich einstellen, können alle hörenden Teilnehmenden die Lautstärke aller Konferenzteilnehmenden individuell anpassen. Weiterhin ist die eigene Videoqualität einstellbar.
+Die Taste m schaltet das eigene Mikrofon stumm - mit dieser Einstellung sollte man immer in eine Konferenz starten. Die Leertaste schaltet bei aktiver Stummschaltung das Mikrofon an (Push-to-talk). Da die Mikrofon-Eingangspegel alle unterschiedlich einstellen, können alle hörenden Teilnehmenden die Lautstärke aller Konferenzteilnehmenden individuell anpassen. Weiterhin ist die eigene Videoqualität einstellbar.
 
 Für das Teilen des Bildschirminhaltes (bzw. spezifischer Programmfenster) ist ggf. eine Anpassung der Sicherheitseinstellungen des Betriebssystems nötig (bspw. in MacOS unter Systemeinstellungen > Sicherheit > Datenschutz > Bildschirmaufnahme).
 

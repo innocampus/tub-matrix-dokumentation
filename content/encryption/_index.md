@@ -66,6 +66,6 @@ Alle im Raum befindlichen Personen wurden verifiziert.
 
 Hier ein weiteres Beispiel, wie man den Verschlüsselungszustand eines Raumes in den Rauminformationen oben rechts neben dem Raum-Icon erkennen kann:
 
-![Darstellung der Verschlüsselungssituation in Matrix-Räumen](/images/room_security_status.png)
-
+![Darstellung eines unverschlüsselten Matrix-Raumes](/images/01_Room-Unencrypted_de.png)
+![Darstellung eines verschlüsselten Matrix-Raumes](/images/01_Room-Encrypted_de.png)
 
