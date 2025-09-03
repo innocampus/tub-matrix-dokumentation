@@ -56,10 +56,11 @@ Matrix not only encrypts transports to and from the home server (in the data cen
 It is highly recommended to use this key backup (with a secure security phrase which is NOT your TUD password)!
 {{% /notice %}}
 
-![Prompt to generate the security key or enter a security phrase](/images/11_Setup-Key_en.png)
-![Prompt to enter a password for the key backup](/images/12_Enter-Key_en.png)
-Alternatively, instead of the security phrase, you can also have a security key generated that serves the same purpose as the security phrase. Furthermore, the security key is generated in addition to the security phrase and should be kept safe and retrievable as an emergency key (e.g. save it as .txt file AND print it out)
-![Display of the security key to write or save away](/images/13_Present-Key_en.png)
+![Settings with sub-option "All Settings"](/images/06_Settings_en.png)
+![Settings under the header "Encryption"](/images/07_Setup-Recovery_en.png)
+![Prompt to enable recovery](/images/08_Setup-Key_en.png)
+![Prompt to copy the key](/images/09_Copy-Key_en.png)
+![Prompt to enter the key again](/images/10_Reenter-Key_en.png)
 
 [Other important settings]({{< relref "settings/_index.en.md" >}}) may improve your Matrix experience!
 

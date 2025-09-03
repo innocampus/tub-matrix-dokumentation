@@ -53,12 +53,14 @@ Es wird dringend empfohlen sich die Zeit zu nehmen und die Schlüsselsicherung e
 
 Matrix verschlüsselt nicht nur die Daten zwischen den Clients und dem Homeserver (im Rechenzentrum der TU Berlin) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen beteiligten Geräten ausgetauscht werden. Obwohl diese technische Notwendigkeit kompliziert klingt und im Hintergrund auch ist, ist sie inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies beispielsweise ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind verschlüsselten Inhalte unter Umständen nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Homeserver der TU Berlin angeboten, auf der (mit einer Sicherheitsphrase bzw. daraus errechenbaren Sicherheitsschlüssel geschützt) alle kryptografischen Schlüssel (verschlüsselt) abgelegt sind.
 
-![Aufforderung den Sicherheitsschlüssel zu generieren oder eine Sicherheitsphrase einzugeben](/images/11_Setup-Key_de.png)
-![Aufforderung eine Passwort für die Schlüsselsicherung einzugeben](/images/12_Enter-Key_de.png)
+![Einstellungen mit Unteroption "Alle Einstellungen"](/images/06_Settings_de.png)
+![Einstellungen im Reiter "Verschlüsselung"](/images/07_Setup-Recovery_de.png)
+![Aufforderung Wiederherstellung einzurichten](/images/08_Setup-Key_de.png)
+![Aufforderung den Schlüssel zu kopieren](/images/09_Copy-Key_de.png)
+![Aufforderung den Schlüssel erneut einzugeben](/images/10_Reenter-Key_de.png)
 
-Bei der Wahl der Sicherheitsphrase ist darauf zu achten, dass diese **nicht** Ihrem TUB-Passwort entsprechen darf! Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel immer zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wieder auffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei und Ausdrucken).
+<!-- Bei der Wahl der Sicherheitsphrase ist darauf zu achten, dass diese **nicht** Ihrem TUB-Passwort entsprechen darf! Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel immer zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wieder auffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei und Ausdrucken). -->
 
-![Anzeige des Sicherheitsschlüssel zum abschreiben oder wegspeichern](/images/13_Present-Key_de.png)
 
 Meldet man sich nun von einem anderen Gerät beziehungsweise mit einem anderen Client an, wird man dazu aufgefordert die Sitzung zu verifizieren. Ist man noch mit einem weiteren Client angemeldet, kann die Verifikation über dieses Gerät erfolgen. Andernfalls ist man auf den Sicherheitsschlüssel oder die Sicherheitsphrase angewiesen.
 
