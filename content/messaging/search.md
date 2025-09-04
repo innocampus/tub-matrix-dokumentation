@@ -10,18 +10,24 @@ weight: 40
 
 Nicht selten kommt es vor, dass nach älteren Gesprächsinhalten gesucht werden möchte. 
 Um den Nachrichtenverlauf in einem Raum (oder in allen Räumen) nach einen bestimmten Text
-zu durchsuchen, befindet sich in der oberen rechte Ecke der Element-App der
-"Suchen"-Button.
+zu durchsuchen, muss man zunächst das `i` in der rechten oberen Ecke anklicken, und dann in
+das Suchfeld klicken.
 
-![Darstellung der Position des Funktionsbutton für die Suche](/images/message-search_de.png)
+![Darstellung der Position von i](/images/01_Message-search-info_de.png)
+![Darstellung der Position des Suchfeldes](/images/02_Message-search_de.png)
+
+Alternativ, kann die Tastenkombination `Strg + F` (bzw. `Cmd + F` auf MacOS) aktiviert und 
+verwendet werden. Diese Option befindet sich unter dem Reiter **Präferenzen**:
+
+![Strg+F Einstellen](/images/01_Ctrl+F-Shortcut_de.png)
 
 Das Suchen nach Nachrichten ist in unverschlüsselten Räumen ohne Problem möglich, da
 Element auf alle Nachrichten Zugriff hat. Anders sieht es in verschlüsselten Räumen aus.
-Diese Funktion ist nur unter Verwendung des Desktop-Clients möglich (siehe [Clients /
+Diese Funktion ist **nur unter Verwendung des Desktop-Clients möglich** (siehe [Clients /
 Installation]({{< relref "clients" >}})), da die Nachrichten für die Suche
 zwischengespeichert werden müssen. Die Nachrichtensuche muss explizit unter
-`Einstellungen` -> `Sicherheit & Datenschutz` -> `Nachrichtensuche` aktiviert werden.
+`Einstellungen -> Sicherheit & Datenschutz -> Nachrichtensuche` aktiviert werden.
 Anschließend ist das Suchen auch in verschlüsselten Räumen möglich.
 
-![Einstellungsebereich für das Aktivieren der Nachrichtensuche](/images/message-search-active_de.png)
+![Einstellungsebereich für das Aktivieren der Nachrichtensuche](/images/03_Message-search-setting_de.png)
 
