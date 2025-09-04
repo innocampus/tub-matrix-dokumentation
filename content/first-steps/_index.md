@@ -30,7 +30,7 @@ Um sich auf dem Homeserver der TU Berlin anzumelden, klickt man zunächst auf **
 
 ![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Change-Homeserver_de.png)
 
-Nun kann man manuell *matrix.tu-berlin.de* als Homeserver angeben.
+Nun kann man manuell `matrix.tu-berlin.de` als Homeserver angeben.
 
 ![Eingabefeld zum Ändern des Homeservers mit der Eingabe matrix.tu-berlin.de](/images/03_Set-Homeserver_de.png)
 
@@ -39,9 +39,9 @@ Als Nutzername muss der TUB-Login **vollständig in Kleinbuchstaben** verwendet 
 
 ![Loginfenster mit Aufforderung TUB-Login und Passwort einzugeben](/images/04_Username_de.png)
 
-Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von anderen Nutzenden zur Kommunikation eingeladen werden kann:
+Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von anderen Nutzenden zur Kommunikation eingeladen werden kann: `@<tu_login>:matrix.tu-berlin.de`
 
-<p style="text-align: center; font-style: italic;">@&lt;tu_login&gt;:matrix.tu-berlin.de</p>
+<!-- <p style="text-align: center; font-style: italic;">@&lt;tu_login&gt;:matrix.tu-berlin.de</p> -->
 
 ## Einrichtung der Schlüsselspeicherung
 

@@ -72,7 +72,7 @@ Im Reiter **Anrufe** können Sie den Matrix-Client Element berechtigen Ihre Medi
 
 Außerdem können erweiterte Einstellungen für Video und Sprachverarbeitung angepasst werden, sowie die Ein- und Ausgabegeräte für Sprach-/Videoanrufe ausgewählt werden.
 
-Erfreulicherweise starten 1:1 Gespräche standardmäßig Ende-zu-Ende-verschlüsselt. Um dieser Verschlüsselung wirklich mit gutem Gefühl zu vertrauen, können Nutzer:innen den Schlüsselvergleich mit Gesprächspartner:innen durchführen. Damit dies dann auch für alle Geräte dieser Gesprächspartner:innen gilt, müssen Matrix-Nutzenden ihrerseits wiederum die Schlüssel all Ihrer Geräte untereinander verifizieren (Fachbegriff: Cross-Signing). Unter Beachtung der nachfolgenden Hinweise kann dies alles sehr bequem geschehen.
+Erfreulicherweise starten 1:1 Gespräche standardmäßig Ende-zu-Ende-verschlüsselt. Um dieser Verschlüsselung wirklich mit gutem Gefühl zu vertrauen, können Nutzer:innen den Schlüsselvergleich mit Gesprächspartner:innen durchführen. Damit dies dann auch für alle Geräte dieser Gesprächspartner:innen gilt, müssen Matrix-Nutzenden ihrerseits wiederum die Schlüssel all Ihrer Geräte untereinander verifizieren (Fachbegriff: Cross-Signing). Hierzu sollten Sie ihre [Sitzungen]({{< relref "settings/#sitzungen" >}}) überprüfen und unbedingt die [Schlüsselspeicherung]({{< relref "first-steps/#einrichtung-der-schlüsselsicherung" >}}) aktiviert und eingerichtet haben.
 
 ## Sicherheit
 
