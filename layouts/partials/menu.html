@@ -10,11 +10,11 @@
             {{ partial "search.html" . }}
         {{end}}
       </div>
-      {{ if or hugo.IsMultilingual}}
+      {{ if or .Site.IsMultiLingual}}
       <br/>
       <section id="prefooter">
         <ul>
-        {{ if and hugo.IsMultilingual (not .Site.Params.DisableLanguageSwitchingButton)}}
+        {{ if and .Site.IsMultiLingual (not .Site.Params.DisableLanguageSwitchingButton)}}
           <li>
             <a class="padding">
               <i class="fas fa-language fa-fw"></i>
@@ -97,7 +97,7 @@
             </ul>
           </section>
         {{end}}
-        {{ if hugo.IsMultilingual }}
+        {{ if .Site.IsMultiLingual }}
         <section id="prefooter">
           <hr/>
           <ul>

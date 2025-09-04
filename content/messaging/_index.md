@@ -14,15 +14,25 @@ Um einzelne Personen anzuschreiben und einen privaten 1:1 Chat zu erzeugen, klic
 
 Nun kann in das Suchfeld die Matrix-Adresse der Person eingeben werden, die man erreichen möchte. Nach dem letzten eingegebenen Zeichen sollten Sie bis zu fünf Sekunden warten, bis die Suchergebnisse vollständig angezeigt werden. Beachten Sie auch, auf welchem Server Ihre gesuchte Person angezeit wird.
 
-Wenn Sie eine Person nicht finden können, fragen Sie nach deren Benutzernamen oder teilen Sie ihren Benutzernamen (`@<tu_login>:matrix.tu-berlin.de`) oder `https://matrix.to/#/@tu_login:matrix.tu-berlin.de`, damit die angesprochene Person Sie innerhalb von Matrix kontaktieren kann. Eine Einladungs-E-Mail wird durch nicht Matrix versendet.
+Beachten Sie, dass aus Datenschutzgründen nur Personen in der Suche erscheinen, mit denen Sie sich bereits in einem gemeinsamen Raum befinden. Sie können jedoch einfach auf **Los** klicken. Wenn die Matrix-Adresse korrekt ist, wird der Gesprächsteilnehmende dennoch zu einem 1:1 Chat eingeladen (auch wenn nicht in der Suche angezeigt).
+
+{{% notice note %}}
+Ein Einfügen von Matrix-Adressen (zum Beispiel via `strg+v`) reicht nicht aus, um Personen zu finden! Am besten geben Sie die Zeichen der Matrix-Adresse per Hand ein (Zeichen für Zeichen). Bis alle Suchergebnisse vollständig angezeigt werden, kann es bis zu fünf Sekunden dauern.
+{{% /notice %}}
+
+Wenn Sie eine Person nicht finden können, fragen Sie nach deren Benutzernamen oder teilen Sie ihren Benutzernamen (`@<tu_login>:matrix.tu-berlin.de`) oder https://matrix.to/#/@tu_login:matrix.tu-berlin.de, damit die angesprochene Person Sie innerhalb von Matrix kontaktieren kann. Eine Einladungs-E-Mail wird durch nicht Matrix versendet.
 
 ![Ergebnis zugefügt zu den Personen, die in den Chat eingeladen werden](/images/02_Start-Chat_de.png)
 
-Im Suchergebnis klickt man auf die Zielperson (oder Leerzeichen, wenn es die einzige Person in der Suche ist) und anschließend auf "Los":
+<!--
+Beachten Sie, dass Matrix-Accounts von ZIH-Funktionslogins möglicherweise nicht geprüft werden. Aufgrund der Neuheit des Mediums für Viele sowie der fehlenden Multi-Account-Funktionalität vom Matrix-Client Element, werden TU Dresden Mitarbeitende womöglich eher ihren persönlichen ZIH-Login nutzen.
+-->
+
+Im Suchergebnis klickt man auf die Zielperson und anschließend auf "Los":
 
 ![Ein Suchergebnis auf eingegebenen Suchanfrage](/images/04_Found-and-Go_de.png)
 
-Es öffnet sich das Gespräch, welches nach Annahme der Einladung durch die verbundene Person [Ende-zu-Ende-verschlüsselt]({{< relref "encryption" >}}) (inzwischen Standard) beginnen kann. Die Verbindung zum Server an der TU Berlin ist natürlich auch transport-verschlüsselt. Sollten Sie aus einem speziellen Grund explizit keine Ende-zu-Ende-Verschlüsselung wünschen, wäre ein unverschlüsselter [Raum zu erzeugen]({{< relref "rooms/create.md" >}}) und die Gesprächspartner:in in diesen einzuladen.
+Es öffnet sich das Gespräch, welches nach Annahme der Einladung durch die verbundene Person [Ende-zu-Ende-verschlüsselt]({{< relref "encryption" >}}) (inzwischen Standard) beginnen kann. Die Verbindung zum Server an der TU Dresden ist natürlich auch transport-verschlüsselt. Sollten Sie aus einem speziellen Grund explizit keine Ende-zu-Ende-Verschlüsselung wünschen, wäre ein unverschlüsselter [Raum zu erzeugen]({{< relref "rooms/create.md" >}}) und die Gesprächspartner:in in diesen einzuladen.
 
 ### Einladen von Personengruppen
 

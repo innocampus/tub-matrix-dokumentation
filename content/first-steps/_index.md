@@ -39,9 +39,7 @@ Als Nutzername muss der TUB-Login **vollständig in Kleinbuchstaben** verwendet 
 
 ![Loginfenster mit Aufforderung TUB-Login und Passwort einzugeben](/images/04_Username_de.png)
 
-Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von anderen Nutzenden zur Kommunikation eingeladen werden kann: 
-
-`@<tu_login>:matrix.tu-berlin.de`
+Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von anderen Nutzenden zur Kommunikation eingeladen werden kann: `@<tu_login>:matrix.tu-berlin.de`
 
 <!-- <p style="text-align: center; font-style: italic;">@&lt;tu_login&gt;:matrix.tu-berlin.de</p> -->
 
