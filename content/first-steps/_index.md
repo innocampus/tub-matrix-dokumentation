@@ -43,34 +43,45 @@ Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von and
 
 <p style="text-align: center; font-style: italic;">@&lt;tu_login&gt;:matrix.tu-berlin.de</p>
 
-## Einrichtung der Schlüsselsicherung
+## Einrichtung der Schlüsselspeicherung
 
-Nach der ersten Anmeldung werden Sie nach einiger Zeit dazu aufgefordert die Schlüsselsicherung einzurichten und andere wichtige Einstellungen vorzunehmen.
+Nach der ersten Anmeldung werden Sie nach einiger Zeit dazu aufgefordert die Schlüsselspeicherung einzurichten und andere wichtige Einstellungen vorzunehmen.
 
 {{% notice info %}}
-Es wird dringend empfohlen sich die Zeit zu nehmen und die Schlüsselsicherung einzurichten. Andernfalls kann es passieren, dass Nachrichten nicht mehr entschlüsselt werden können und so verloren gehen.
+Es wird dringend empfohlen sich die Zeit zu nehmen und die Schlüsselspeicherung einzurichten. Andernfalls kann es passieren, dass Nachrichten nicht mehr entschlüsselt werden können und so verloren gehen.
 {{% /notice %}}
 
-Matrix verschlüsselt nicht nur die Daten zwischen den Clients und dem Homeserver (im Rechenzentrum der TU Berlin) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen beteiligten Geräten ausgetauscht werden. Obwohl diese technische Notwendigkeit kompliziert klingt und im Hintergrund auch ist, ist sie inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies beispielsweise ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind verschlüsselten Inhalte unter Umständen nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Homeserver der TU Berlin angeboten, auf der (mit einer Sicherheitsphrase bzw. daraus errechenbaren Sicherheitsschlüssel geschützt) alle kryptografischen Schlüssel (verschlüsselt) abgelegt sind.
+Matrix verschlüsselt nicht nur die Daten zwischen den Clients und dem Homeserver (im Rechenzentrum der TU Berlin) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen beteiligten Geräten ausgetauscht werden. Obwohl diese technische Notwendigkeit kompliziert klingt und im Hintergrund auch ist, ist sie inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies beispielsweise ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind verschlüsselten Inhalte unter Umständen nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselspeicherung auf dem Homeserver der TU Berlin angeboten, auf der (mit einem Sicherheitsschlüssel geschützt) alle kryptografischen Schlüssel (verschlüsselt) abgelegt sind.
+
+Um die Schlüsselspeicherung zu aktivieren, kann man auf das pop-up in der linken oberen Ecke reagieren, oder selbst in die Einstellungen gehen. Hier am Beispiel von Element-Web (identisch für Element-Desktop)
 
 ![Einstellungen mit Unteroption "Alle Einstellungen"](/images/06_Settings_de.png)
+
+Es sollte sichergestellt werden, das der Schalter für Schlüsselspeicherung bereits aktiviert ist.
+
 ![Einstellungen im Reiter "Verschlüsselung"](/images/07_Setup-Recovery_de.png)
 ![Aufforderung Wiederherstellung einzurichten](/images/08_Setup-Key_de.png)
+
+Außerdem sollte der automatisch generierte Wiederherstellungsschlüssel unbedingt hier kopiert und an einem sicheren Ort (wie z.B. in einem Passwort-Manager) abgespeichert werden.
+
 ![Aufforderung den Schlüssel zu kopieren](/images/09_Copy-Key_de.png)
+
+Zur Sicherheit, wird man nun gefragt den eben generierten Schlüssel einzugeben. 
+
 ![Aufforderung den Schlüssel erneut einzugeben](/images/10_Reenter-Key_de.png)
 
 <!-- Bei der Wahl der Sicherheitsphrase ist darauf zu achten, dass diese **nicht** Ihrem TUB-Passwort entsprechen darf! Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel immer zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wieder auffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei und Ausdrucken). -->
 
 
-Meldet man sich nun von einem anderen Gerät beziehungsweise mit einem anderen Client an, wird man dazu aufgefordert die Sitzung zu verifizieren. Ist man noch mit einem weiteren Client angemeldet, kann die Verifikation über dieses Gerät erfolgen. Andernfalls ist man auf den Sicherheitsschlüssel oder die Sicherheitsphrase angewiesen.
+Meldet man sich nun von einem anderen Gerät bzw. mit einem anderen Client an, wird man dazu aufgefordert die Sitzung zu verifizieren. Ist man noch mit einem weiteren Client angemeldet, kann die Verifikation über dieses Gerät erfolgen. Andernfalls ist man auf den Sicherheitsschlüssel angewiesen.
 
 ![Screenshot der Aufforderung eine Sicherheitsphrase einzugeben](/images/01_Restore-Session_de.png)
 
-Sollte die Schlüsselsicherung nicht eingerichtet worden sein, kann nach einer Abmeldung nicht auf verschlüsselte Nachrichten zugegriffen werden. Auch das Schließen eines Browser-Tabs kann unter ungünstigen Umständen zu einer Abmeldung des Clients vom Homeserver führen.
+Sollte die Schlüsselspeicherung nicht eingerichtet worden sein, kann nach einer Abmeldung nicht auf verschlüsselte Nachrichten zugegriffen werden. Auch das Schließen eines Browser-Tabs kann unter ungünstigen Umständen zu einer Abmeldung des Clients vom Homeserver führen.
 
 ![Bestätigung des Überspringens der Eingabe einer Sicherheitsphrase](/images/03_Cancel-Restore_de.png)
 
-Vermeiden Sie diese Situation durch eine eingerichtete Schlüsselsicherung!
+Vermeiden Sie diese Situation durch eine eingerichtete Schlüsselspeicherung!
 
 ## Konfiguration des Clients
 
