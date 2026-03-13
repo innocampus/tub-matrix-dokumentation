@@ -16,8 +16,8 @@ das Suchfeld klicken.
 ![Darstellung der Position von i](/images/01_Message-search-info_de.png)
 ![Darstellung der Position des Suchfeldes](/images/02_Message-search_de.png)
 
-Alternativ, kann die Tastenkombination `Strg + F` (bzw. `Cmd + F` auf MacOS) aktiviert und 
-verwendet werden. Diese Option befindet sich unter dem Reiter **Präferenzen**:
+Alternativ, kann die Tastenkombination `Strg + F` (bzw. `Cmd + F` auf MacOS) in den Einstellungen
+aktiviert und  verwendet werden. Diese Option befindet sich unter dem Reiter **Präferenzen**:
 
 ![Strg+F Einstellen](/images/01_Ctrl+F-Shortcut_de.png)
 

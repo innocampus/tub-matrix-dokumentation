@@ -17,7 +17,7 @@ Dies kann später (unter Einstellungen -> Benachrichtigungen) geändert oder rü
 
 ## Öffnen der Einstellungen
 
-Das **Einstellungsmenü** kann geöffnet werden indem auf das runde Anzeigebild oben Links und anschließend auf die Zeile "Alle Einstellungen" geklickt wird.
+Das **Einstellungsmenü** kann geöffnet werden indem auf das Zahrad unten Links und anschließend auf die Zeile "Alle Einstellungen" geklickt wird.
 
 ![Auswahl des Menüpunkts Einstellungen in dem Nutzer:innenmenü](/images/06_Settings_de.png)
 
