@@ -108,6 +108,7 @@ However, the federation with the Matrix servers of other scientific or civil soc
 * [TU Berlin](https://chat.tu-berlin.de/) incl. [Docu](https://www.innocampus.tu-berlin.de/projekte/matrixinnocampus/)
 
 * [Humboldt Uni Berlin](https://element.hu-berlin.de/) incl. [Docu](https://www.digitale-lehre.hu-berlin.de/de/lehr-und-lernlandschaft/element)
+* [Berlin University of the Arts](https://medienhaus.udk-berlin.de/classroom)
 
 * [TU München](https://matrix.tum.de) incl. [Docu](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
 

@@ -39,7 +39,7 @@ Als Nutzername muss der TUB-Login **vollständig in Kleinbuchstaben** verwendet 
 
 ![Loginfenster mit Aufforderung TUB-Login und Passwort einzugeben](/images/04_Username_de.png)
 
-Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von anderen Nutzenden zur Kommunikation eingeladen werden kann: 
+Analog zu E-Mail-Adressen ergibt sich eine Matrix-Adresse, über die man von anderen Nutzenden zur Kommunikation eingeladen werden kann:
 
 `@<tu_login>:matrix.tu-berlin.de`
 
@@ -68,7 +68,7 @@ Außerdem sollte der automatisch generierte Wiederherstellungsschlüssel unbedin
 
 ![Aufforderung den Schlüssel zu kopieren](/images/09_Copy-Key_de.png)
 
-Zur Sicherheit, wird man nun gefragt den eben generierten Schlüssel einzugeben. 
+Zur Sicherheit, wird man nun gefragt den eben generierten Schlüssel einzugeben.
 
 ![Aufforderung den Schlüssel erneut einzugeben](/images/10_Reenter-Key_de.png)
 
@@ -119,6 +119,8 @@ Folgende deutsche Hochschulen verfügen über einen eigenen Homeserver:
 * [Humboldt Uni Berlin](https://element.hu-berlin.de/) inkl. [Doku](https://www.digitale-lehre.hu-berlin.de/de/lehr-und-lernlandschaft/element)
 
 * [TU München](https://matrix.tum.de) inkl. [Doku](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
+
+* [Universität der Künste Berlin](https://medienhaus.udk-berlin.de/classroom)
 
 * [Uni Hannover](https://matrix.uni-hannover.de) inkl. [Doku](https://www.luis.uni-hannover.de/de/services/kommunikation/matrix-messenger/)
 
