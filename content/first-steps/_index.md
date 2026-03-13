@@ -113,6 +113,7 @@ Folgende deutsche Hochschulen verfügen über einen eigenen Homeserver:
 * [TU Berlin](https://chat.tu-berlin.de/) inkl. [Doku](https://www.innocampus.tu-berlin.de/projekte/matrixinnocampus/)
 
 * [Humboldt Uni Berlin](https://element.hu-berlin.de/) inkl. [Doku](https://www.digitale-lehre.hu-berlin.de/de/lehr-und-lernlandschaft/element)
+* [Universität der Künste Berlin](https://medienhaus.udk-berlin.de/classroom)
 
 * [TU München](https://matrix.tum.de) inkl. [Doku](https://wiki.in.tum.de/Informatik/Helpdesk/RIOT)
 
@@ -199,4 +200,3 @@ Datenschutzerklärung: [Link]({{< relref "privacy/_index.md" >}})
 ## Impressum
 
 Impressum: [Link]({{< relref "imprint/_index.md" >}})
-
