@@ -28,18 +28,4 @@ For a mobile client on a smartphone, Element X is recommended, as it is the most
 
 {{% button href="https://apps.apple.com/us/app/element-x-secure-chat-call/id1631335820" icon="fas fa-download" %}}iOS (iPhone/iPad){{% /button %}} {{% button href="https://play.google.com/store/apps/details?id=io.element.android.x" icon="fas fa-download" %}}Android (Google Play){{% /button %}} {{% button href="https://f-droid.org/packages/io.element.android.x/" icon="fas fa-download" %}}Android (F-Droid){{% /button %}}
 
-## Element Classic
-
-On the road, access to Matrix is possible, for example, via smartphone with the help of the mobile Element Apps.
-
-
-## [Element Android]({{< ref "android.md" >}} "Setup of Element Android")
-
-Downloads for: {{% button href="https://play.google.com/store/apps/details?id=im.vector.app" icon="fas fa-download" %}}Android (Google Play){{% /button %}} {{% button href="https://f-droid.org/packages/im.vector.app/" icon="fas fa-download" %}}Android (F-Driod){{% /button %}}
-
-
-## [Element iOS]({{< ref "ios.md" >}} "Setup of Element iOS")
-
-Downloads for: {{% button href="https://apps.apple.com/app/vector/id1083446067" icon="fas fa-download" %}}iOS (iPhone/iPad){{% /button %}}
-
 ![Element page for client download](/images/12_Element-Download.png)
