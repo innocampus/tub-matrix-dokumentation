@@ -7,9 +7,9 @@ weight: 1000
 ---
 ## Fragen / Kontakt
 
-Allgemeine Fragen richten Sie bitte per Mail an das Ticketsystem von InnoCampus:
+Allgemeine Fragen richten Sie bitte per Mail an das Ticketsystem der ZECM:
 
-<a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>
+<a href="mailto:matrix@zecm.tu-berlin.de">matrix(at)zecm.tu-berlin.de</a>
 
 ## Impressum
 
@@ -20,12 +20,12 @@ Es gilt das [Impressum der TU Berlin](https://www.tu.berlin/footer/impressum/) m
 #### Leonard Ehli
 
 Technische Universität Berlin<br/>
-InnoCampus<br/>
-Sekretariat E 1<br/>
-Einsteinufer 19<br/>
+ZECM<br/>
+Sekretariat E 50<br/>
+Einsteinufer 17<br/>
 10587 Berlin
 
-<a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>
+<a href="mailto:matrix@zecm.tu-berlin.de">matrix(at)zecm.tu-berlin.de</a>
 
 ## Datenschutzerklärung
 

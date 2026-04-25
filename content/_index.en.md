@@ -61,11 +61,12 @@ In order to meet the demand for real-time communication, the open communication 
 ### Questions and Contact
 
 Please mail general questions to the ticket-system of InnoCampus:
-<a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>
+<a href="mailto:matrix@zecm.tu-berlin.de">matrix(at)zecm.tu-berlin.de</a>
 
 In addition, problems and solutions can be discussed together in the [#support:matrix.tu-berlin.de](https://chat.tu-berlin.de/#/room/#support:matrix.tu-berlin.de) by describing the issue, so that everyone else can learn through transparent exchange.
 
 <!-- TODO: auf Tips Seite verschieben -->
 {{% notice tip %}}
 For some anomalies you can try to empty the cache and reload everything: Settings > Help & About > Clear Cache and reload
+Caution: Make sure you created and stored your recovery key somewhere safe, or you might lose access to all encrypted messages!
 {{% /notice %}}

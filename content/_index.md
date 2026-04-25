@@ -67,12 +67,13 @@ setInterval(() => {
 
 ### Fragen / Kontakt
 
-Allgemeine Fragen richten Sie bitte per Mail an das Ticketsystem von InnoCampus:
-<a href="mailto:matrix-support@innocampus.tu-berlin.de">matrix-support(at)innocampus.tu-berlin.de</a>
+Allgemeine Fragen richten Sie bitte per Mail an das Ticketsystem der ZECM:
+<a href="mailto:matrix@zecm.tu-berlin.de">matrix(at)zecm.tu-berlin.de</a>
 
 Probleme und deren Lösungen können darüber hinaus im Matrix-Support-Raum [#support:matrix.tu-berlin.de](https://chat.tu-berlin.de/#/room/#support:matrix.tu-berlin.de) diskutiert werden, sodass alle anderen Nutzenden durch den transparenten Austausch lernen können. Dort werden auch aktuelle Wartungen angekündigt.
 
 <!-- TODO: auf Tips Seite verschieben -->
 {{% notice tip %}}
 Man kann bei manchen Anomalien probieren den Cache (Zwischenspeicher) zu leeren und alles neu zu laden: Einstellungen > Hilfe & Über > Cache löschen und neu laden
+Achtung: hierbei sollte vorher sicher gestellt werden, das der Wiederherstellungsschlüssel erstellt und abgespreichert wurde, da sonst der Verlust von verschlüsselten Nachrichten möglich ist.
 {{% /notice %}}
