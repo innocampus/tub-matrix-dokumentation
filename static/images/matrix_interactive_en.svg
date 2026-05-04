@@ -1106,7 +1106,7 @@
 </tspan></tspan><tspan
          x="32.014584"
          y="73.157295"><tspan
-           style="stroke-width:0.264548;stroke-miterlimit:4;stroke-dasharray:none"> 
+           style="stroke-width:0.264548;stroke-miterlimit:4;stroke-dasharray:none">
 </tspan></tspan></text>
     <g
        id="g3101"
@@ -2981,7 +2981,7 @@
        y="0"><tspan
          x="-69.320312"
          y="85.577081"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">Rooms 
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">Rooms
 </tspan></tspan></text>
   </g>
   <g
@@ -3098,7 +3098,7 @@
        y="0"><tspan
          x="-69.320312"
          y="85.577081"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">People 
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">People
 </tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#b31f23;stroke-width:0.162048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3343,7 +3343,7 @@
          y="85.577081"><tspan>Favorites</tspan></tspan></text>
   </g>
   <a
-     href="https://play.google.com/store/apps/details?id=im.vector.app"
+     href="https://play.google.com/store/apps/details?id=io.element.android.x"
      target="_blank"
      rel="noopener noreferrer"
      id="href_googleplay">
@@ -3398,7 +3398,7 @@
     </g>
   </a>
   <a
-     href="https://f-droid.org/packages/im.vector.app/"
+     href="https://f-droid.org/packages/io.element.android.x/"
      target="_blank"
      rel="noopener noreferrer"
      id="href_fdroid">
@@ -3532,7 +3532,7 @@
     </g>
   </a>
   <a
-     href="https://apps.apple.com/app/vector/id1083446067"
+     href="https://apps.apple.com/us/app/element-x-secure-chat-call/id1631335820"
      target="_blank"
      rel="noopener noreferrer"
      id="href_applestore">
@@ -3637,7 +3637,7 @@
        y="0"><tspan
          x="-69.320312"
          y="85.577081"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">Rooms 
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">Rooms
 </tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#b31f23;stroke-width:0.228197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3749,7 +3749,7 @@
        y="0"><tspan
          x="-69.320312"
          y="85.577081"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">People 
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#b31f23;fill-opacity:1">People
 </tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#b31f23;stroke-width:0.242134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
