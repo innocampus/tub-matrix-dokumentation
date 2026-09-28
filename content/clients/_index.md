@@ -26,7 +26,7 @@ Element kann auch als Programm auf dem eigenen Rechner installiert werden. Der V
 
 ## Element X Mobile (Android, iOS)
 
-Für einen mobilen Client auf dem Smartphone wird Element X empfohlen, da es der modernste stabile client ist. Anders als der alte "Element Classic" client unterstützt er Element Call und Threads (aktivierbar in Labor Einstellungen). Allerdings werden legacy 1:1 wie in Element Classic nicht mehr unterstützt.
+Für einen mobilen Client auf dem Smartphone wird Element X empfohlen, da es der modernste stabile client ist. Anders als der alte "Element Classic" client unterstützt er Element Call, statt legacy 1:1 Anrufe. Das "Threads" feature ist aktivierbar in den Labor Einstellungen.
 
 {{% button href="https://apps.apple.com/us/app/element-x-secure-chat-call/id1631335820" icon="fas fa-download" %}}iOS (iPhone/iPad){{% /button %}} {{% button href="https://play.google.com/store/apps/details?id=io.element.android.x" icon="fas fa-download" %}}Android (Google Play){{% /button %}} {{% button href="https://f-droid.org/packages/io.element.android.x/" icon="fas fa-download" %}}Android (F-Droid){{% /button %}}
 

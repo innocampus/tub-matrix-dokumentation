@@ -24,7 +24,7 @@ More recommendable than using a browser tab is the installation of the program E
 
 ## Element X Mobile (Android, iOS)
 
-For a mobile client on a smartphone, Element X is recommended, as it is the most modern and stable client. Unlike the old "Element Classic" client, it supports Element Call and Threads (which can be enabled in the beta settings). However, legacy features like those in Element Classic are no longer supported.
+For a mobile client on a smartphone, Element X is recommended, as it is the most modern and stable client. Unlike the old "Element Classic" client, it supports Element Call instead of legacy 1:1 calls. The Threads feature can be enabled in the beta settings.
 
 {{% button href="https://apps.apple.com/us/app/element-x-secure-chat-call/id1631335820" icon="fas fa-download" %}}iOS (iPhone/iPad){{% /button %}} {{% button href="https://play.google.com/store/apps/details?id=io.element.android.x" icon="fas fa-download" %}}Android (Google Play){{% /button %}} {{% button href="https://f-droid.org/packages/io.element.android.x/" icon="fas fa-download" %}}Android (F-Droid){{% /button %}}
 
